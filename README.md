@@ -1,3 +1,5 @@
+# Live demo:  https://kennyt995.github.io/medical-report/
+
 # MedicalReport
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.1.
